@@ -1,107 +1,130 @@
-# wayubi
+# W. Latif Ayubi
 
-> Builder of systems. Student of coherence. Quietly compounding.
+> Builder of systems · Engineer of record · Quietly reliable
 
-This repository represents my public GitHub profile — a snapshot of what I build, how I think, and what I value.
+This repository represents my public GitHub profile — a distilled view of how I think, build, and lead.
 
-I’m a systems-oriented software engineer with a long-term mindset, a bias toward correctness over flash, and a strong interest in automation, trading systems, backend architecture, and applied intelligence. I prefer work that compounds quietly rather than projects that optimize for attention.
+I’m a **software engineering consultant with 20+ years of experience**, spanning consumer-facing products, large-scale enterprise systems, financial platforms, and internal tooling. My work lives at the intersection of **architecture, execution, and accountability** — especially in environments where systems are complex, under-documented, or already in motion.
 
----
-
-## 🧭 What I Care About
-
-* **Systems over snippets** — architecture, incentives, failure modes
-* **Automation** — removing repetitive human effort wherever possible
-* **Correctness & clarity** — code should explain itself under pressure
-* **Long-term leverage** — tools that improve with time, not decay
-* **Quiet reliability** — software that works without drama
+I don’t optimize for noise. I optimize for **coherence, durability, and results**.
 
 ---
 
-## 🛠️ Areas of Focus
+## 🧭 What I Value
+
+* **Systems thinking** — architecture, incentives, data flow, failure modes
+* **Correctness over flash** — software should behave predictably under pressure
+* **Ownership** — if I take it on, it gets finished
+* **Automation** — eliminate repetitive work, reduce human error
+* **Long-term leverage** — solutions that compound instead of decay
+* **Trust** — keeping one’s word matters
+
+---
+
+## 🛠️ What I Do
 
 ### Software Engineering
 
-* Backend-heavy development (PHP, Python, Node.js)
-* API-driven systems and integrations
-* Trading and market-analysis bots
-* State management, timing, and edge-case handling
-* Performance, resilience, and observability
+* Backend-heavy development across PHP, Python, Node.js, C#/.NET
+* API-driven systems and service integrations (REST, SOAP, XML, JSON)
+* Enterprise web applications and internal business tooling
+* Performance optimization, reliability, and observability
+* Security-aware development (Veracode Security Labs Champion I–III)
 
-### Automation
+### Automation & Infrastructure
 
-* Scripted workflows to eliminate manual processes
-* File, document, and data pipelines
-* Pragmatic tooling that helps real users, not demos
+* PowerShell, Bash, and scripting to eliminate manual workflows
+* Data migration and normalization pipelines
+* Cloud-native deployments (AWS, Azure App Services)
+* CI/CD, DevOps practices, and environment parity
 
-### Trading Systems
+### Financial & Trading Systems
 
-* Quantitative strategies with explicit entry/exit logic
+* Quantitative trading bots with explicit entry/exit logic
 * Indicator-driven decision engines (RSI, ATR, PSAR, trailing exits)
-* Position-based tracking (price-in / price-out / realized gain)
-* Minute-level execution and discipline over prediction
+* Position-based accounting (price-in / price-out / realized P&L)
+* Minute-level execution with discipline over prediction
 
-### Applied AI (Practical, not hype)
+### Applied AI (Pragmatic)
 
 * Task-focused assistants
 * Workflow augmentation for accounting, research, and education
-* On-prem and self-hosted experimentation
+* Self-hosted and on-prem experimentation over black-box dependency
 
 ---
 
-## 🧠 Philosophy
+## 🧠 How I Work
 
-I build the way I think:
+I’m often brought into environments that are:
 
-* Simple on the surface
-* Structured underneath
-* Resistant to failure
+* minimally defined
+* under time pressure
+* carrying technical debt
+* mid-transition (mergers, rewrites, migrations)
 
-I’m not interested in novelty for its own sake. I care about **coherence** — when logic, incentives, and execution align. Most of my projects start because something *almost* works, but fails quietly at the edges. That’s where I tend to live.
+My role is to **make sense of the mess**, identify leverage points, and execute a plan that others can build on.
+
+Patterns I default to:
+
+* explicit state over implicit magic
+* boring solutions over clever hacks
+* deterministic behavior over surprises
+* documentation and logs as first-class features
 
 ---
 
-## 📂 What You’ll Find Here
+## 🧱 Experience Highlights
 
-* Trading bots and financial tooling
+* **Financial Services / Banking** — Loan origination & servicing platforms, post-acquisition system integration, performance optimization, and operational tooling
+* **E‑commerce & Marketplaces** — Magento, custom PHP frameworks, Solr/SolrCloud, ElasticSearch, large-scale catalog and search systems
+* **Enterprise & SaaS** — API layers, backend portals, internal tools, and data-driven UIs
+* **Leadership** — Lead Engineer, Engineering Manager, consultant, and mentor across teams of varying sizes and disciplines
+
+I’ve led teams, coached engineers, stabilized failing projects, modernized legacy systems, and delivered under compressed timelines.
+
+---
+
+## 🧩 What You’ll Find Here
+
+* Trading and financial tooling
 * Backend utilities and automation scripts
-* Experiments that prioritize correctness over polish
+* Infrastructure and integration experiments
 * Long-lived projects that evolve instead of being rewritten
 
-Some repositories are intentionally minimal. Others are opinionated. All of them reflect real constraints and real use.
+Some repositories are intentionally minimal. Others are opinionated. All reflect real constraints and real use.
 
 ---
 
-## 🧱 Design Principles
+## 🌍 Background
 
-* Explicit state > implicit magic
-* Boring solutions > clever hacks
-* Deterministic behavior > surprises
-* Logs are features
-* If it can fail, assume it will
+* **Languages:** English (native), Pashto (native), German (limited), Spanish (elementary)
+* **Education:** B.A. in History — California State University, Long Beach
+* **Certifications:** Zend PHP 5.3, Veracode Security Labs Champion (Levels I–III)
+
+My background in history informs how I approach systems: context matters, decisions compound, and shortcuts have consequences.
 
 ---
 
 ## 👤 About Me
 
-I’m a builder who prefers to work behind the scenes. I’ve spent years supporting teams, systems, and families — often without fanfare — and I bring that same reliability to code.
+Colleagues consistently describe me as:
 
-I write software the way I approach life: responsibly, deliberately, and with an eye toward long-term consequences.
+* reliable
+* analytical
+* principled
+* calm under pressure
+* capable of handling ambiguous, high-stakes work
+
+I tend to operate quietly, but I take responsibility seriously — for code, for systems, and for people.
 
 ---
 
 ## 📫 Contact
 
-I don’t optimize for visibility, but I do value meaningful collaboration.
+* GitHub: [https://github.com/wayubi](https://github.com/wayubi)
+* LinkedIn: [https://www.linkedin.com/in/wayubi](https://www.linkedin.com/in/wayubi)
 
-If you’re interested in:
-
-* systems thinking
-* automation that actually gets used
-* trading infrastructure
-* pragmatic AI
-
-…you’ll probably understand my work.
+I don’t chase visibility, but I value meaningful collaboration — especially with people who care about quality, clarity, and long-term outcomes.
 
 ---
 
